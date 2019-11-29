@@ -1,0 +1,104 @@
+.Home{
+    background-image: url(receita2.jpg);
+    background-repeat: no-repeat;
+    background-color:lightblue;
+    background-position-x: 285px;
+    background-position-y: 330px;
+    background-size: 60%;
+}
+.Home h1 {
+   text-align: center;
+    font-size: 80px;  
+ }
+
+.Home h2 {
+   text-align: center;
+    font-size: 50px;  
+}
+
+#link1, #link2, #link3, #link4 {
+    font-size: 30px; 
+    table {
+  border-collapse: collapse;
+}
+ }
+    
+ #sobre {
+    background-image: url(Peixe1.jpg);
+    background-repeat: no-repeat;
+    background-color:yellowgreen;
+    background-position-x: 100px;
+    background-position-y: 250px;
+    background-size: 90%;
+  }    
+
+#sobre h1 {
+    font-size: 60px;
+    line-height: 0.0001;
+    color: blue;
+    text-align: center;
+  
+}
+
+#sobre h2 {
+  text-align: center;
+  font-size: 40px; 
+   line-height: 1.2;
+   color: black;
+    
+   
+}
+
+.receita {
+   background-color:yellow;
+   background-position-x: 285px;
+   background-position-y: 330px;
+   background-size: 60%; 
+}
+
+.receita h1 {
+   text-align: center;
+    font-size: 80px; 
+     line-height: 0.0001;
+ }
+
+.receita h2 {
+   text-align: left;
+    font-size: 50px;
+    line-height: 0.8;
+
+}
+
+.receita p {
+   font-size: 30px;  
+    
+}
+
+#contato {
+   background-color:yellow;
+   background-position-x: 285px;
+   background-position-y: 330px;
+   background-size: 60%; 
+   
+}
+
+#contato h1 {
+  font-size: 80px;
+    line-height: 0.0001;
+    text-align: center;
+   
+ }
+
+#contato h2 {
+   text-align: left;
+    font-size: 30px;
+    line-height: 0.5;
+}
+
+#contato p {
+   font-size: 30px;
+    line-height: 0.5;
+    
+}.button {
+
+}
